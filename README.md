@@ -114,11 +114,14 @@ Bot de automação para **gerenciamento de grupos de uma exchange**, com persist
 ---
 
 ### 🧾 Ecredac — Plataforma Web
-**Stack:** TypeScript · Vercel
+Site institucional moderno para consultoria tributária e crédito acumulado de ICMS.
 
-Projeto web **finalizado e entregue** ao cliente.
+- Frontend em React 19 + TypeScript + Vite + Tailwind CSS 4
+- Roteamento SPA com Wouter e páginas dedicadas para serviços, FAQ, contato e política de privacidade
+- Formulário de contato com máscaras, validação manual, captura automática de CNPJ e envio de leads via API/Resend
+- UI utilitária com componentes estilo shadcn (Radix Slot + class-variance-authority)
+- SEO e performance com metadados centralizados, Open Graph, JSON-LD, Google Analytics/Ads e consentimento LGPD
 - 🌐 [ecredac.com.br](https://ecredac.com.br)
-
 ---
 
 ### 🧑‍🔧 Autônomo — Plataforma para Autônomos
@@ -148,13 +151,20 @@ Projeto web **finalizado e entregue** ao cliente.
 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=lijenko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijenko&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=lijenko&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
+  <table>
+    <tr>
+      <td align="center" width="400">
+        <b>🗣️ Most Used Languages</b><br/><br/>
+        <img src="https://img.shields.io/badge/TypeScript-52.2%25-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/JavaScript-32.5%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+        <img src="https://img.shields.io/badge/PHP-4.3%25-777BB4?style=flat-square&logo=php&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/HTML-3.9%25-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Java-3.5%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/CSS-2.8%25-1572B6?style=flat-square&logo=css3&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/SQL-0.5%25-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
