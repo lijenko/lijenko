@@ -149,12 +149,17 @@ Site institucional moderno para consultoria tributária e crédito acumulado de 
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lijenko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
-
   <table>
     <tr>
-      <td align="center" width="400">
-        <b>🗣️ Most Used Languages</b><br/><br/>
+      <td align="center" width="380">
+        <b>📊 lijenko's GitHub Stats</b><br/><br/>
+        <img src="https://img.shields.io/badge/Total%20Commits-373%2B-6366F1?style=flat-square" /><br/><br/>
+        <img src="https://img.shields.io/badge/Pull%20Requests-3-3178C6?style=flat-square" />
+        <img src="https://img.shields.io/badge/PRs%20Merged-2-23D96C?style=flat-square" /><br/><br/>
+        <img src="https://img.shields.io/badge/Contributed%20to-1%20repo-F7DF1E?style=flat-square&logoColor=black" />
+      </td>
+      <td align="center" width="380">
+        <b>Most Used Languages</b><br/><br/>
         <img src="https://img.shields.io/badge/TypeScript-52.2%25-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/JavaScript-32.5%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
         <img src="https://img.shields.io/badge/PHP-4.3%25-777BB4?style=flat-square&logo=php&logoColor=white" /><br/>
