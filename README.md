@@ -1,8 +1,12 @@
 <div align="center">
-  <h1>Olá, eu sou o Lijenko 👋</h1>
+  <h1>Olá, eu sou o Gabriel Lijenko 👋</h1>
   <h3>Estagiário SDET · Desenvolvedor Full Stack · Automação & Qualidade de Software</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Development+Engineer+in+Test;Full+Stack+Developer;TypeScript+%7C+React+%7C+Node.js;Automação+%7C+Qualidade+%7C+QA" alt="Typing SVG" />
+  <p>
+    <img src="https://img.shields.io/badge/Focus-SDET%20%2F%20QA-6366F1?style=flat-square" />
+    <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20React%20%7C%20Node.js-3178C6?style=flat-square" />
+    <img src="https://img.shields.io/badge/Deploy-Vercel%20%7C%20VPS-000000?style=flat-square" />
+  </p>
 </div>
 
 ---
@@ -10,14 +14,16 @@
 ## 🧑‍💻 Sobre mim
 
 - 💼 Estagiário de **SDET (Software Development Engineer in Test)**
-- 🚀 Apaixonado por desenvolvimento web **full stack** e automação
-- 🛠️ Experiência com projetos reais em produção — do frontend ao backend
-- 🌎 Projetos com deploy em **Vercel** e servidores **VPS**
+- 🚀 Atuo com desenvolvimento **full stack** e automação no dia a dia
+- 🛠️ Experiência com projetos reais em produção, do frontend ao backend
+- 🌎 Projetos com deploy em **Vercel**, **VPS** e servidores **Apache (Locaweb)**
 - 📬 Sempre aprendendo sobre qualidade, testes e boas práticas de software
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Desenvolvimento
 
 <div align="center">
 
@@ -33,6 +39,20 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+</div>
+
+### 🧪 QA & SDET
+
+<div align="center">
+
+![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Octane](https://img.shields.io/badge/OpenText%20Octane-0073E6?style=for-the-badge&logo=opentext&logoColor=white)
 
 </div>
 
@@ -52,7 +72,7 @@ Plataforma web completa para apresentação de serviços de **Realidade Virtual,
 - Internacionalização (PT/EN)
 - Hero com video background e animações suaves
 - 8 páginas dinâmicas de serviço
-- Deploy em produção: [mtechvr.com.br](https://mtechvr2.com.br)
+- 🌐 [mtechvr.com.br](https://mtechvr.com.br)
 
 ---
 
@@ -64,7 +84,7 @@ Plataforma **full stack** para extração e análise de dados fiscais (EFD/SPED)
 - Integração com **Mercado Pago** para pagamentos
 - Arquitetura monorepo (client / server / shared)
 - Deploy automatizado no **Vercel**
-- Deploy em produção: [extrator-fiscal.com.br](https://extrator-fiscal.com.br/)
+- 🌐 [extrator-fiscal.com.br](https://extrator-fiscal.com.br)
 
 ---
 
@@ -75,53 +95,58 @@ Site institucional moderno para empresa de **consultoria fiscal e compliance**.
 - Formulários com validação via **React Hook Form + Zod**
 - Roteamento com **Wouter** e páginas de serviços dinâmicas
 - Componentes acessíveis com **Radix UI**
-- Deploy em produção: [waytax.com.br](https://waytax.com.br/)
+- 🌐 [waytax.com.br](https://waytax.com.br)
 
 ---
 
-### 🤖 Mirror Bot — Bot WhatsApp OTC USDT/BRL
-**Stack:** JavaScript · Node.js · Baileys · SQLite · PM2
+### 🤖 Exchange Group Bot — Bot para grupos de exchange
+**Stack:** JavaScript · Node.js · SQLite · PM2
 
-Bot de **cotação cambial USDT/BRL** para grupos OTC e Venda no WhatsApp.
-- Cotação em tempo real via **API da Binance** (atualização a cada 2s)
-- Sistema de **lock** com cálculo D0/D1/D2
-- Gerenciamento dinâmico de grupos sem reiniciar o bot, via JSON
-- Persistência com **SQLite** e exportação CSV
-- Deploy 24/7 em **VPS** com PM2
+Bot de automação para **gerenciamento de grupos de uma exchange**, com persistência local e deploy 24/7 em VPS.
+- Processamento de comandos em tempo real via messaging API
+- Persistência de dados com **SQLite** e exportação CSV
+- Gerenciamento dinâmico de grupos sem reinicialização
+- Deploy contínuo em **VPS** com **PM2**
 
 ---
 
-### 🧾 Ecredac
+### 🧾 Ecredac — Plataforma Web
 **Stack:** TypeScript · Vercel
 
-Aplicação web em produção.
-- Deploy em produção: [ecredac.com.br](https://ecredac.com.br)
+Projeto web **finalizado e entregue** ao cliente.
+- 🌐 [ecredac.com.br](https://ecredac.com.br)
 
 ---
 
 ### 🧑‍🔧 Autônomo — Plataforma para Autônomos
 **Stack:** HTML · CSS · JavaScript
 
-Site focado em soluções para profissionais autônomos.
-
-**Projeto Acadêmico**
-- Demo: [autonomo-drab.vercel.app](https://autonomo-drab.vercel.app)
+**Projeto Acadêmico** — Site focado em soluções para profissionais autônomos.
+- 🌐 Demo: [autonomo-drab.vercel.app](https://autonomo-drab.vercel.app)
 
 ---
 
 ### 🏦 BankSecure
 **Stack:** HTML · CSS · JavaScript
 
-**Projeto Acadêmico**
-Projeto voltado à área financeira/segurança bancária.
+**Projeto Acadêmico** — Projeto voltado à área financeira e segurança bancária.
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=lijenko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijenko&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lijenko&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijenko&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=lijenko&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" />
+
 </div>
 
 ---
