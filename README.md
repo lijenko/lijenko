@@ -52,7 +52,7 @@ Plataforma web completa para apresentação de serviços de **Realidade Virtual,
 - Internacionalização (PT/EN)
 - Hero com video background e animações suaves
 - 8 páginas dinâmicas de serviço
-- Deploy em produção: [mtechvr2.vercel.app](https://mtechvr2.vercel.app)
+- Deploy em produção: [mtechvr.com.br](https://mtechvr2.com.br)
 
 ---
 
@@ -64,7 +64,7 @@ Plataforma **full stack** para extração e análise de dados fiscais (EFD/SPED)
 - Integração com **Mercado Pago** para pagamentos
 - Arquitetura monorepo (client / server / shared)
 - Deploy automatizado no **Vercel**
-- Demo: [extrator-fiscal.vercel.app](https://extrator-fiscal.vercel.app)
+- Demo: [extrator-fiscal.com.br](https://extrator-fiscal.vercel.app)](https://extrator-fiscal.com.br/)
 
 ---
 
@@ -94,7 +94,7 @@ Bot de **cotação cambial USDT/BRL** para grupos OTC e Venda no WhatsApp.
 **Stack:** TypeScript · Vercel
 
 Aplicação web em produção.
-- Demo: [ecredac.vercel.app](https://ecredac.vercel.app)
+- Demo: [ecredac.com.br](https://ecredac.com.br)
 
 ---
 
@@ -102,6 +102,8 @@ Aplicação web em produção.
 **Stack:** HTML · CSS · JavaScript
 
 Site focado em soluções para profissionais autônomos.
+
+**Projeto Acadêmico**
 - Demo: [autonomo-drab.vercel.app](https://autonomo-drab.vercel.app)
 
 ---
@@ -109,6 +111,7 @@ Site focado em soluções para profissionais autônomos.
 ### 🏦 BankSecure
 **Stack:** HTML · CSS · JavaScript
 
+**Projeto Acadêmico**
 Projeto voltado à área financeira/segurança bancária.
 
 ---
