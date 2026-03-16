@@ -40,6 +40,9 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -65,7 +68,7 @@
 ---
 
 ### 🥽 MTechVR — Plataforma de Realidade Imersiva
-**Stack:** React 18 · TypeScript · Three.js · Framer Motion · Tailwind CSS · Supabase
+**Stack:** React 19 · TypeScript · Three.js · Framer Motion · Tailwind CSS · Supabase
 
 Plataforma web completa para apresentação de serviços de **Realidade Virtual, Aumentada e Mista**.
 - Visualizações 3D interativas com **React Three Fiber**
@@ -126,10 +129,16 @@ Projeto web **finalizado e entregue** ao cliente.
 
 ---
 
-### 🏦 BankSecure
-**Stack:** HTML · CSS · JavaScript
+### 🏦 BankSecure — Sistema de Gerenciamento de Apólices
+**Stack:** Java 21 · Spring Boot · Spring Data JPA · H2 Database · JUnit 5 · Mockito · JaCoCo · Docker
 
-**Projeto Acadêmico** — Projeto voltado à área financeira e segurança bancária.
+**Projeto Acadêmico em grupo** (FIAP) — Sistema completo de gerenciamento de apólices e propostas de seguros.
+- API REST com **Spring Boot** e arquitetura em camadas (Controller / Service / Repository)
+- Cobertura de testes com **JUnit 5**, **Mockito** e relatórios via **JaCoCo**
+- Autenticação de funcionários e regras de elegibilidade de clientes
+- Dashboard com receita total e receita por tipo de seguro
+- Containerizado com **Docker**
+- 🔗 [Ver repositório](https://github.com/raquelrleite/banksecure)
 
 ---
 
