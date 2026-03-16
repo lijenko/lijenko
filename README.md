@@ -166,7 +166,7 @@ Site institucional moderno para consultoria tributária e crédito acumulado de 
         <img src="https://img.shields.io/badge/HTML-3.9%25-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Java-3.5%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/CSS-2.8%25-1572B6?style=flat-square&logo=css3&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/SQL-0.5%25-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-0.8%25-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </td>
     </tr>
   </table>
