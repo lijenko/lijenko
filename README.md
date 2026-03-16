@@ -64,7 +64,7 @@ Plataforma **full stack** para extração e análise de dados fiscais (EFD/SPED)
 - Integração com **Mercado Pago** para pagamentos
 - Arquitetura monorepo (client / server / shared)
 - Deploy automatizado no **Vercel**
-- Demo: [extrator-fiscal.com.br](https://extrator-fiscal.vercel.app)](https://extrator-fiscal.com.br/)
+- Deploy em produção: [extrator-fiscal.com.br](https://extrator-fiscal.com.br/)
 
 ---
 
@@ -75,6 +75,7 @@ Site institucional moderno para empresa de **consultoria fiscal e compliance**.
 - Formulários com validação via **React Hook Form + Zod**
 - Roteamento com **Wouter** e páginas de serviços dinâmicas
 - Componentes acessíveis com **Radix UI**
+- Deploy em produção: [waytax.com.br](https://waytax.com.br/)
 
 ---
 
@@ -84,7 +85,7 @@ Site institucional moderno para empresa de **consultoria fiscal e compliance**.
 Bot de **cotação cambial USDT/BRL** para grupos OTC e Venda no WhatsApp.
 - Cotação em tempo real via **API da Binance** (atualização a cada 2s)
 - Sistema de **lock** com cálculo D0/D1/D2
-- Gerenciamento dinâmico de grupos sem reiniciar o bot
+- Gerenciamento dinâmico de grupos sem reiniciar o bot, via JSON
 - Persistência com **SQLite** e exportação CSV
 - Deploy 24/7 em **VPS** com PM2
 
@@ -94,7 +95,7 @@ Bot de **cotação cambial USDT/BRL** para grupos OTC e Venda no WhatsApp.
 **Stack:** TypeScript · Vercel
 
 Aplicação web em produção.
-- Demo: [ecredac.com.br](https://ecredac.com.br)
+- Deploy em produção: [ecredac.com.br](https://ecredac.com.br)
 
 ---
 
