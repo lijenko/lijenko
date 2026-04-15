@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Gabriel Lijenko 👋</h1>
-  <h3>Estagiário SDET · Desenvolvedor Full Stack · Automação & Qualidade de Software</h3>
+  <h3>SDET · Desenvolvedor Full Stack · Automação & Qualidade de Software</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Focus-SDET%20%2F%20QA-6366F1?style=flat-square" />
