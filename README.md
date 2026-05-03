@@ -16,7 +16,7 @@
 - 💼 **SDET (Software Development Engineer in Test)**
 - 🚀 Atuo com desenvolvimento **full stack** e automação no dia a dia
 - 🛠️ Experiência com projetos reais em produção, do frontend ao backend
-- 🌎 Projetos com deploy em **Vercel**, **VPS** e servidores **Apache (Locaweb)**
+- 🌎 Projetos com deploy em **Vercel**, **VPS**, **Railway** e servidores **Apache (Locaweb)**
 - 📬 Sempre aprendendo sobre qualidade, testes e boas práticas de software
 
 ---
