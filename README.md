@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 💼 Estagiário de **SDET (Software Development Engineer in Test)**
+- 💼 **SDET (Software Development Engineer in Test)**
 - 🚀 Atuo com desenvolvimento **full stack** e automação no dia a dia
 - 🛠️ Experiência com projetos reais em produção, do frontend ao backend
 - 🌎 Projetos com deploy em **Vercel**, **VPS** e servidores **Apache (Locaweb)**
