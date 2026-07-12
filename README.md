@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor em início de carreira com experiência prática em **projetos reais em produção** e em
+Desenvolvedor com experiência prática em **projetos reais em produção** e em
 um **ambiente corporativo de grande porte** (setor financeiro), atuando na fronteira entre
 **desenvolvimento, automação de testes (QA) e infraestrutura/observabilidade**.
 
@@ -21,9 +21,6 @@ Tenho vivência de ponta a ponta: do **frontend** (React + TypeScript) ao **back
 automação de testes** utilizada pelos times de QA, com integrações a ferramentas de qualidade e
 métricas (Octane, SonarQube, Dynatrace, Grafana).
 
-Busco minha **próxima oportunidade** como Desenvolvedor Júnior, Engenheiro de Software Júnior,
-DevOps Júnior ou áreas correlatas de desenvolvimento/infra/segurança, onde eu possa contribuir com
-código, aprender com o time e crescer. Atualmente estudando para as certificações
 **AWS Cloud Practitioner** e **AWS Developer – Associate** (previsão: 2026).
 
 ---
