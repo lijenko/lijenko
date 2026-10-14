@@ -4,6 +4,7 @@
 
 📍 São Paulo/SP · Disponibilidade total (remoto, híbrido ou presencial) · 🌐 Inglês avançado
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--lijenko-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-lijenko)
 [![Email](https://img.shields.io/badge/Email-lijenkogabriel@hotmail.com-EA4335?logo=gmail&logoColor=white)](mailto:lijenkogabriel@hotmail.com)
 [![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner%20%26%20Developer%20(2026)-FF9900?logo=amazonaws&logoColor=white)](#-certificações-em-andamento)
 
@@ -258,6 +259,7 @@ Projeto em equipe (programa F1rst + FIAP) com foco em arquitetura backend e qual
 ## 📫 Contato
 
 - 📧 **Email:** lijenkogabriel@hotmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/gabriel-lijenko](https://linkedin.com/in/gabriel-lijenko)
 - 🐙 **GitHub:** [github.com/lijenko](https://github.com/lijenko)
 
 ---
